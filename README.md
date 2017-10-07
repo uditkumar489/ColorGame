@@ -1,2 +1,2 @@
 # ColorGame
-hand-made with html & css.
+hand-made with js !!
